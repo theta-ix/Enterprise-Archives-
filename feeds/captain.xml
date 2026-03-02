@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Captain's Log — USS Enterprise</title>
+    <link>https://theta-ix.github.io/Enterprise-Archives-/</link>
+    <description>Command-level mission logs</description>
+
+    <item>
+      <title>Captain's Log, Stardate 4729.4</title>
+      <description>
+        Captain's Log, Stardate 4729.4.
+        The Enterprise is conducting patrol operations along the frontier.
+        No unusual activity to report.
+      </description>
+      <pubDate>Mon, 02 Mar 2267 08:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
