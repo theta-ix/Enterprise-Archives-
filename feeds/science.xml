@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Science Officer's Log — USS Enterprise</title>
+    <link>https://theta-ix.github.io/Enterprise-Archives-/</link>
+    <description>Scientific observations and anomaly reports</description>
+
+    <item>
+      <title>Science Log, Stardate 4729.5</title>
+      <description>
+        Sensor sweeps indicate minor subspace fluctuations along the patrol route.
+        Probability of natural origin: 73.4 percent.
+      </description>
+      <pubDate>Mon, 02 Mar 2267 09:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
