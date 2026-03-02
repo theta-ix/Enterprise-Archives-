@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Engineering Log — USS Enterprise</title>
+    <link>https://theta-ix/Enterprise-Archives-/</link>
+    <description>Engineering reports and systems status</description>
+
+    <item>
+      <title>Engineering Log, Stardate 4729.6</title>
+      <description>
+        Warp core efficiency at 98.7 percent.
+        Minor variance in plasma conduit three.
+        Corrective maintenance scheduled.
+      </description>
+      <pubDate>Mon, 02 Mar 2267 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
