@@ -8,9 +8,20 @@
     <item>
       <title>Captain's Log, Stardate 4729.4</title>
       <description>
-        Captain's Log, Stardate 4729.4.
-        The Enterprise is conducting patrol operations along the frontier.
-        No unusual activity to report.
+      Captain's Log, Stardate 4729.4.
+
+    The Enterprise continues routine patrol operations along the outer frontier. 
+    Long-range scans reveal no hostile activity and no confirmed anomalous readings. 
+    Starfleet Command has requested our continued presence in this sector as a precautionary measure.
+
+    The crew remains on standard duty rotation. Following recent engagements, 
+    a period of relative quiet has allowed systems recalibration and personnel recovery.
+
+    Mister Spock reports minor subspace fluctuations at the extreme edge of sensor range. 
+    He considers them statistically insignificant, but I have ordered continued observation.
+
+    For the moment, the frontier remains calm.
+        End log.
       </description>
       <pubDate>Mon, 02 Mar 2267 08:00:00 GMT</pubDate>
     </item>
